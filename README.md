@@ -1,6 +1,7 @@
 ### Olá! eu sou a Bruna Santos.
 
--  Fotógrafa e estudante de front-end.
+-  📷 Fotógrafa
+-  💻 Estudante de front-end.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
