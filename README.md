@@ -1,4 +1,4 @@
-### Olá! eu sou a Bruna Santos 👋
+### Olá! eu sou a Bruna Santos.
 
 - 📷 Fotógrafa.
 - 🌱 Estudante de front-end.
@@ -14,7 +14,7 @@
  ##
  
  
- <a href = "mailto:kkaebrubs@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href = "mailto:s_bruna@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/bruln_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-santos-277800107" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
