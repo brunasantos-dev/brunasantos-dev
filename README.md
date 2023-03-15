@@ -1,6 +1,5 @@
-### Olá! eu sou a Bruna Santos.
+### Olá! meu nome é Bruna Santos.
 
--  📷 Fotógrafa
 -  💻 Estudante de front-end.
 
 <div style="display: inline_block"><br>
