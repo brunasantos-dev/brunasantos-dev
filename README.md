@@ -1,6 +1,6 @@
-### Olá! meu nome é Bruna Santos.
+### Bruna Santos.
 
--  💻 Sou estudante de análise e desenvolvimento de sistemas.
+Estudante de análise e desenvolvimento de sistemas na Pontifícia Universidade Católica de Minas Gerais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
