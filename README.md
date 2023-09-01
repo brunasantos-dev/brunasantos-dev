@@ -11,10 +11,4 @@ Estudante de análise e desenvolvimento de sistemas na Pontifícia Universidade 
 </div>
  
  ##
- 
- 
 
-  
-   ![Snake animation](https://github.com/brunasantos-dev/brunasantos-dev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
